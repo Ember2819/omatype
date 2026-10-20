@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Omatype
+GenericName=Typing Test
+Comment=Dead-simple typing speed test
+Exec=omatype
+Icon=omatype
+Terminal=false
+Categories=Education;Game;Utility;
+Keywords=typing;speed;wpm;monkeytype;keyboard;practice;
+StartupWMClass=omatype
