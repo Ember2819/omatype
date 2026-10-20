@@ -2,9 +2,6 @@
 
 A typing speed test built with Qt Quick.
 
-![omatype](screenshots/screenshot-1.png)
-![omatype](screenshots/screenshot-2.png)
-
 ## Build
 
 ```sh
